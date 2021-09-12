@@ -102,7 +102,7 @@ class Gd2 extends \Magento\Framework\Image\Adapter\AbstractAdapter
         }
 
         return true;
-
+    }
     /**
      * Checks whether memory limit is reached.
      *
